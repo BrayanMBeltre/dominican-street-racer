@@ -5,11 +5,8 @@ import { useOnUpdate } from "@/hook/draw";
 export default function Home() {
   return (
     <main>
-      {/* background */}
-      {/* map */}
       {/* title */}
-      {/* button */}
-      {/* copyright */}
+      {/* play again */}
     </main>
   );
 }
